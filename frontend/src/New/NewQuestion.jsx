@@ -8,7 +8,7 @@ function NewQuestion() {
       </div>
       <div class="grid grid-cols-3 grid-rows-1 gap-1 h-screen">
         {/* Left Pane */}
-        <div class="h-screen bg-yellow-100 col-span-1">
+        <div class="h-screen bg-yellow 900 col-span-1">
           <div class="category-selector-dropdown mt-30">
             <form class="max-w-md mx-auto">
               <label
